@@ -4,5 +4,6 @@
 2. Operators
 3. Conditions
 4. Loops
-5. Arrays
-6. Objects
+5. Function
+6. Arrays
+7. Objects
