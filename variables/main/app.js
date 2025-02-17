@@ -1,1 +1,5 @@
-var a = 5; // numbers ni create cheyyadaniki. ante value 5 anedhi number
+var a = 5;
+var b = a;
+var c = "a";
+var d = true;
+console.log(b, c, d);
