@@ -29,3 +29,25 @@ for (let i = 0; i < a.length; i++) {
   console.log(a[i]); // Nani // Naidu
 }
 ```
+
+### Objects
+
+1. objects ni set of key values pairs ni store chesukovadaniki use chestaru
+
+   ```javascript
+   var employee1 = {
+     name: "nani",
+     age: 21,
+   };
+   ```
+
+2. name anedhi property/ key
+3. `"nani"` anedhi value
+4. object lo property ni update `objectName.propertyName = updatedValue`
+   ```javascript
+   employee1.name = "22";
+   ```
+5. object lo property ni access cheyyadam objectName.propertyName
+   ```javascript
+   console.log(employee1.name);
+   ```
