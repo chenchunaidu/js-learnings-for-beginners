@@ -16,3 +16,19 @@ addNumbers(1, 2, 3);
 5. function nunchi manam output cheyyadaniki return ni use chestam. manam return cheyyadaniki return ane keyword ni use chestam
 6. function ni create chesina ventane dani lopala unna code execute avvadu.
 7. Function ni call chesina tarvate matrame function lo unna code execute avutundi
+
+8. kinda code function declaration code. manam function declaration okkasari matrame chestam.
+
+```javascript
+function addNumbers(a, b, c) {
+  const d = a + b + c;
+  return d;
+}
+```
+
+9. kinda code function call code. manam function call enni sarlu ayina cheyyachu
+
+```javascript
+addNumbers(1, 2, 3);
+addNumbers(4, 5, 6);
+```
