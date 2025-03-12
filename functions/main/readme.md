@@ -1,12 +1,12 @@
 ### Functions
 
-```
+```javascript
 function addNumbers(a, b, c) {
   const d = a + b + c;
   return d;
 }
 
-addNumbers(1,2,3)
+addNumbers(1, 2, 3);
 ```
 
 1. functions ni create cheyyadaniki manam `function` ane keyword use chestam
