@@ -7,6 +7,9 @@
 5. Function
 6. Arrays
 7. Objects
+8. String literals
+9. Arrow functions
+10. Map, filter, reduce
 
 ### Git commands
 
